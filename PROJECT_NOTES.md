@@ -12,3 +12,13 @@ NOTES TO SELF:
 - Ideally, we will be able to export our Houdini project as a text file. 
 - Link: https://www.sidefx.com/docs/houdini/assets/textfiles.html 
 - USD (a future tool from Pixar that we might want to explore): https://graphics.pixar.com/usd/overview.html 
+
+How to commit to GitHub:
+
+  git add.
+  git commit -m "message"
+  git push 
+  
+  Type username and password
+  
+  Then, submit PR. 
